@@ -1,0 +1,26 @@
+// YOU DONT NEED THIS FILE TO RUN - PLAYABLE AREA CONTROL SCRIPT!!!
+// THIS FILE IS JUST TO CONFIG THE EXAMPLE MISSION.
+
+//BASIC CONFIGS
+class Header {
+	gameType 				= Sandbox;
+	minPlayers				= 1;
+	maxPlayers				= 4;
+};
+
+	// About
+	onLoadName 				= "Playable Area Control";
+	author 					= "thy";
+	overviewPicture 		= "images\thumb.jpg";	
+	onLoadMission 			= "A script for your single and multiplayer missions with NO respawn points.";
+	
+	// Gameplay
+	joinUnassigned 			= 0;
+	respawnButton 			= 0;
+	
+	// Performance
+	DisabledAI				= 1;
+
+// CBA MOD
+//cba_settings_hasSettingsFile = 0;
+
