@@ -1,0 +1,35 @@
+// YOU DONT NEED THIS FILE TO RUN - PLAYABLE AREA CONTROL SCRIPT!!!
+// THIS FILE IS JUST TO CONFIG THE EXAMPLE MISSION.
+
+//BASIC CONFIGS
+class Header {
+	gameType 				= Sandbox;
+	minPlayers				= 1;
+	maxPlayers				= 4;
+};
+
+	// About
+	onLoadName 				= "PLAYABLE AREA (respwn accepted)";
+	author 					= "thy";
+	overviewPicture 		= "images\thumb.jpg";	
+	onLoadMission 			= "A Playable Area Control for your single and multiplayer missions (compatible with missions with respawn points.";
+	
+	// Gameplay
+	joinUnassigned 			= 0;
+	respawnButton 			= 1;
+	enableTeamSwitch		= false;
+	respawn					= 3;
+	respawnOnStart			= 1;
+	respawnDelay 			= 5;
+	respawnTemplates[] 		= { "MenuPosition", "MenuInventory", "Wave" };
+	respawnDialog 			= 0; 
+	debriefing 				= 1;
+	saving 					= 0;
+	enableDebugConsole 		= 1; 
+	
+	// Performance
+	DisabledAI				= 1;
+
+// CBA MOD
+//cba_settings_hasSettingsFile = 0;
+
