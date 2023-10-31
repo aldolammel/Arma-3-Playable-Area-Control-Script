@@ -1,0 +1,26 @@
+//BASIC CONFIGS
+class Header {
+	gameType        = Sandbox;
+	minPlayers      = 1;
+	maxPlayers      = 6;
+};
+
+	// About
+	onLoadName      = "PAC: PLAYABLE AREA CONTROL";
+	author          = "thy";
+	overviewPicture = "images\thumb.jpg";	
+	onLoadMission   = "Control your playable area in single and multiplayer missions with NO respawn points.";
+	
+	// Gameplay
+	joinUnassigned  = 0;
+	respawnButton   = 0;
+	
+	// Performance
+	DisabledAI      = 1;
+
+
+class CfgFunctions
+{
+	// PAC: PLAYABLE AREA CONTROL
+	#include "PAC\THY_PAC_functions.hpp"
+};

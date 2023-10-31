@@ -1,0 +1,35 @@
+//BASIC CONFIGS
+class Header {
+	gameType           = Sandbox;
+	minPlayers         = 1;
+	maxPlayers         = 6;
+};
+
+	// About
+	onLoadName         = "PLAYABLE AREA (respwn accepted)";
+	author             = "thy";
+	overviewPicture    = "images\thumb.jpg";	
+	onLoadMission      = "Control your playable area in single and multiplayer missions (compatible with respawn points).";
+	
+	// Gameplay
+	joinUnassigned     = 0;
+	respawnButton      = 1;
+	enableTeamSwitch   = false;
+	respawn            = 3;
+	respawnOnStart     = 1;  // -1 = Dont respawn on start and don't run respawn script on start. / 0 = Dont respawn on start but run respawn script on start. / 1 = Respawn on start. Run respawn script on start.
+	respawnDelay       = 5;
+	respawnTemplates[] = { "MenuPosition", "MenuInventory", "Wave" };
+	respawnDialog      = 0; 
+	debriefing         = 1;
+	saving             = 0;
+	enableDebugConsole = 1; 
+	
+	// Performance
+	DisabledAI         = 1;
+
+
+class CfgFunctions
+{
+	// PAC: PLAYABLE AREA CONTROL
+	#include "PAC\THY_PAC_functions.hpp"
+};
