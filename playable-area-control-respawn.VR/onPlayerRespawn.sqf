@@ -8,7 +8,7 @@ params ["_newUnit", "_oldUnit", "_respawn", "_respawnDelay"];  // Do not change 
 
 
 
-	// When applicatebla, drop here all your respawn codes, etc...
+	// When applicable, drop here all your respawn codes, etc...
 
 
 
