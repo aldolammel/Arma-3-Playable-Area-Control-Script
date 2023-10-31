@@ -1,4 +1,4 @@
-# Arma 3 / PAC: Playable Area Control v1.7
+# Arma 3 / PAC: Playable Area Control v1.8
 >*Dependencies: none.*
 
 PAC is a script for ARMA 3 that provides a full solution to control the map limits for players in multiplayer (Coop, PvP, TvT), preventing players from leaving the mission area.
@@ -32,6 +32,16 @@ Discussion and known issues: https://forums.bohemia.net/forums/topic/239890-rele
 __
 
 ## CHANGELOG
+
+**XXX, XXth 202X | v1.8**
+- Added > xxxxxxxxxxxx;
+- Added > xxxxxxxxxxxxxxxxxxxx;
+- Added > xxxxxxxxxxxxxxxxxxx;
+- Fixed > xxxxxxxxxxxxxxxxxxxxx;
+- Fixed > xxxxxxxxxxxxxxxxxxxxx;
+- Improved > xxxxxxxxxxxxxxxxxxxxxxxxx;
+- Improved > xxxxxxxxxxxxxxxxxxxxxxxxx;
+- Documentation updated.
 
 **Oct, 30th 2023 | v1.7**
 - Added > Air tolerance ON > Parachuters fly out of playable area;
