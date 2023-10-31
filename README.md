@@ -3,7 +3,7 @@
 
 PAC is a simple script for ARMA 3 that controls the map limits for players in multiplayer, preventing players from leaving the mission area allowed by the mission editor. Designed for dedicated and hosted servers, doesn't matter what mods are loaded or not.
 
-Creation concept: to be super easy to be implemented and customized, also compatible with any mainstream mod, and functional for both type of servers: with coop missions, PvP, and TvT.
+Creation concept: to be super easy to implement and customize, compatible with any mainstream mod, and functional for all types of servers: coop missions, PvP, and TvT.
 
 ## HOW TO INSTALL / DOCUMENTATION
 
