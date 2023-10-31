@@ -33,13 +33,13 @@ __
 
 ## CHANGELOG
 
-**Nov, XXth 2023 | v1.7**
+**Oct, 30th 2023 | v1.7**
 - Added > Air tolerance ON > Parachuters fly out of playable area;
 - Added > Air tolerance ON > Jet pilots can eject out of playable area;
 - Added > A list of vehicle types that can be enterally ignored by PAC rules;
 - Improved > If player has an AI unit under their command and player order it to leave the playable area, the AI will be under the PAC rules if player leaves the area too;
 - Improved > Lots of improvements regarding performance;
-- Documentation updated. 
+- Documentation updated.
 
 **Aug, 24th 2022 | v1.5**
 - Added option to exclude air vehicles (plane, helicopters and air drones) from the punishment when out of playable area;
