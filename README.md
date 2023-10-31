@@ -1,7 +1,7 @@
 # Arma 3 / PAC: Playable Area Control v1.7
 >*Dependencies: none.*
 
-PAC is a simple script for ARMA 3 that controls the map limits for players in multiplayer, preventing players from leaving the mission area allowed by the mission editor. Designed for dedicated and hosted servers, doesn't matter what mods are loaded or not.
+PAC is a script for ARMA 3 that provides a full solution to control the map limits for players in multiplayer (Coop, PvP, TvT), preventing players from leaving the mission area.
 
 Creation concept: to be super easy to implement and customize, compatible with any mainstream mod, and functional for all types of servers: coop missions, PvP, and TvT.
 
