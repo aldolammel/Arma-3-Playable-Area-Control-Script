@@ -9,7 +9,7 @@ Creation concept: to be super easy to implement and customize, compatible with a
 
 video demo (old): https://www.youtube.com/watch?v=bDq5DH6xwJg
 
-Documentation: https://docs.google.com/document/d/1GwwM5lRdo_DGnEd8RmJKIseZ6OEBtFc6tLbaZSnp4BE
+Documentation: https://github.com/aldolammel/Arma-3-Playable-Area-Control-Script/blob/main/_PAC_Script_Documentation.pdf
 
 __
 
