@@ -23,7 +23,7 @@ if !isServer exitWith {};
 	// in secs, more or less the time of each PAC checking cycle:
 	PAC_checkTime = 15;  // Default: 15
 	// Vehicle classnames that must be immune to PAC in any circustance:
-	PAC_noAnyRulesForThem = [];  // Default: []
+	PAC_noAnyRulesForThem = ["C_Heli_Light_01_civil_F"];  // Default: []
 
 
 	// DONT TOUCH //////////////////////////////////////////////////////////////////////////////////////////////////////
